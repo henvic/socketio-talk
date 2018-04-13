@@ -76,7 +76,7 @@ Use anything that can be unmarshaled by json.Unmarshal:
 3. basic events support (connect, disconnect, error)
 
 TODO:
-1. room suport
+1. room support
 2. binary protocol support
 
 Need to improve: testing.
