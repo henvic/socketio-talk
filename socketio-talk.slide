@@ -17,6 +17,8 @@ https://talks.godoc.org/github.com/henvic/socketio-talk/socketio-talk.slide
 2. Front-end and Node.JS developers are familiar.
 3. A web prototype was already built using it.
 
+.image wedeploy.png 700 _
+
 * Why not
 1. Standards for the protocol?
 2. JavaScript-centric. No complete implementation on other languages.
