@@ -40,7 +40,7 @@ However, a new feature request required streaming:
 .image graarh-golang-socketio.png 400 _
 
 .link https://github.com/graarh/golang-socketio github.com/graarh/golang-socketio
-Cool, I don't to reverse engineer Socket.IO... Or do I?
+Cool, I don't need to reverse engineer Socket.IO... Or do I?
 
 * Bad news... Need to reverse engineer Socket.IO
 .caption Okay :( And eventually got rid of the server implementation (I don't need this).
